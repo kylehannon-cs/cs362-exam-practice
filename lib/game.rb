@@ -4,4 +4,8 @@ class Game
 	def start
 		#start
 	end
+
+	def started?
+		#started
+	end	
 end
